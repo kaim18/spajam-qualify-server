@@ -1,0 +1,8 @@
+.DS_Store
+*.db
+.env
+ruby/
+.bundle/
+ruby.zip
+base64log.txt
+*.JPG
